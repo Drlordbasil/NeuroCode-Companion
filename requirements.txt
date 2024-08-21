@@ -1,0 +1,7 @@
+streamlit
+streamlit-ace
+streamlit-lottie
+requests
+plotly
+pandas
+openai
